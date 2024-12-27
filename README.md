@@ -3,7 +3,9 @@
 
 A sophisticated real-time letter tracking application that monitors your typing activity and provides detailed analytics through interactive graphs.
 
-![Letter Counter Demo](demo.gif)
+[Letter Counter Demo]
+
+![image](https://github.com/user-attachments/assets/7e3e923d-7eb0-419e-bb95-d8fcd5bda773)
 
 ## Features
 
