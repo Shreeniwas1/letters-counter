@@ -1,5 +1,5 @@
 
-# Advanced Global Letter Counter
+#  Global Letter Counter
 
 A sophisticated real-time letter tracking application that monitors your typing activity and provides detailed analytics through interactive graphs.
 
